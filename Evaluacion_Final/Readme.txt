@@ -42,7 +42,8 @@ Links repositorio GitHub.
 https://github.com/Daniela-Segura27/DesarrolloWeb.git
 
 2-	Catherine Natalia Box:
-               https://github.com/Cathy-B/JavaFullStack_Awakelab/tree/main/Evaluacion_Final
+https://github.com/Cathy-B/JavaFullStack_Awakelab/tree/main/Evaluacion_Final
+
 3-	Bayron Bravo Duran:
 https://github.com/Byron2408/proyectoweb.git
 

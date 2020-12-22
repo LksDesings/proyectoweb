@@ -51,6 +51,7 @@ https://github.com/Byron2408/proyectoweb.git
 https://github.com/LokoQlia/ProyectoWeb.git
 
 5-	Marcelo Gonzales Mercado
+https://github.com/marcalejandrogm/full_stack_Evaluacion_Final/tree/main/Evaluacion_Final
 
 
 6-	Antón Rubilar Messina:
